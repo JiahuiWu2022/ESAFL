@@ -32,7 +32,7 @@ lib.mkUnpkEncryptADD_doubleArray_longSize(double* mvec1, double* mvec2, double* 
 ## License
 Copyright (c) by CryptoLab inc.
 
-Copyright (c) 2022 Your Pengcheng Lab.
+Copyright (c) 2022 Pengcheng Lab.
 
 Modified extensively by Jiahui Wu, Pengcheng Laboratory, Aug. 2022
 
